@@ -51,7 +51,7 @@ In our white paper, you can see the entire PLS roadmap. We have currently comple
 
 - Telegram: [https://t.me/plsnetwork](https://t.me/plsnetwork)
 - Twitter: @network_pls
-- Websit: [https://plsnetwork.github.io/](https://plscoin.github.io/)
+- Websit: [https://plscoin.github.io/](https://plscoin.github.io/)
 - Github: [https://github.com/plsnetwork](https://github.com/plsnetwork)
 
 
